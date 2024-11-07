@@ -1,0 +1,2 @@
+# Table_AI_ML_Codespaces_template
+GitHub CodespacesでJupyter Notebookを使うときのテンプレート（テーブルデータのAI/MLコンペ用）
