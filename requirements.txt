@@ -10,3 +10,6 @@ catboost
 xgboost
 prophet
 pmdarima
+japanize-matplotlib
+pygwalker
+ydata-profiling
