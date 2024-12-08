@@ -13,3 +13,4 @@ pmdarima
 japanize-matplotlib
 pygwalker
 ydata-profiling
+autogluon
