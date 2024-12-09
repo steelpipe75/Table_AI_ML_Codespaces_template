@@ -4,13 +4,24 @@ pandas==2.2.2
 torch==2.3.0
 torchvision==0.18.0
 tqdm==4.66.4
+
 optuna
+
 lightgbm
 catboost
 xgboost
+
 prophet
 pmdarima
+
 japanize-matplotlib
 pygwalker
+
 ydata-profiling
+# zarque-profiling
+dtale
+sweetviz
+autoviz
+# dataprep
+
 autogluon
