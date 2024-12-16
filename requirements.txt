@@ -28,3 +28,9 @@ autogluon
 pycaret
 
 jupytext
+
+ipykernel
+
+py-AutoClean
+autofeat
+# xfeat
