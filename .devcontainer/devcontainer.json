@@ -16,7 +16,8 @@
         "ms-python.python",
         "ms-toolsai.datawrangler",
         "mechatroner.rainbow-csv",
-        "marp-team.marp-vscode"
+        "marp-team.marp-vscode",
+        "janisdd.vscode-edit-csv"
       ]
     }
   }
