@@ -34,3 +34,6 @@ ipykernel
 py-AutoClean
 autofeat
 # xfeat
+
+kaggle
+signate
