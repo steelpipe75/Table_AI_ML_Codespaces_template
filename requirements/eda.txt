@@ -1,0 +1,6 @@
+ydata-profiling
+# zarque-profiling
+dtale
+sweetviz
+autoviz
+# dataprep
